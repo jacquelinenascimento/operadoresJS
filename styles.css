@@ -1,0 +1,12 @@
+body {
+    background: #b4cedd;
+    font-family: Verdana;
+    margin: auto;
+}
+
+
+.titulo {
+    font: 40px;
+    text-align: left;
+    color: rgb(146, 91, 135);
+}
